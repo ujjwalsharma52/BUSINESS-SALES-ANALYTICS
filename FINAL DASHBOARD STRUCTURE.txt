@@ -1,0 +1,11 @@
+---------------------------------------------------------
+| Business Sales Performance Analytics Dashboard        |
+---------------------------------------------------------
+| Revenue | Orders | Customers | Avg Order Value       |
+---------------------------------------------------------
+| Revenue Trend Chart | Country Sales Map              |
+---------------------------------------------------------
+| Top Products Chart  | Customer Table                 |
+---------------------------------------------------------
+| Country Filter | Date Filter | Product Filter        |
+---------------------------------------------------------
